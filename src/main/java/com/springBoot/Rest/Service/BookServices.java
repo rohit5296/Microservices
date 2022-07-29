@@ -1,4 +1,4 @@
-package com.springBoot.Rest.Services;
+package com.springBoot.Rest.Service;
 
 import java.util.List;
 
