@@ -1,4 +1,4 @@
-package com.springBoot.Rest.controller;
+package com.springBoot.Rest.Controller;
 
 
 
